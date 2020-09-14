@@ -5,5 +5,8 @@ num2 = 17
 num3 = 90
 num4 = 29
 
-puts num1.prime?
-puts num2.prime?
+def prime_numbers
+  puts num1.prime?
+  puts num2.prime?
+
+end
