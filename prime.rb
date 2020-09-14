@@ -12,3 +12,5 @@
 #   puts num4.prime?
 
 # end
+
+Prime.instance.prime?(2)
